@@ -667,6 +667,11 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@cometchat-pro/chat@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.npm.taobao.org/@cometchat-pro/chat/download/@cometchat-pro/chat-1.5.1.tgz#41e7fad5d44a5b79108641305f1101ba6023f672"
+  integrity sha1-Qef61dRKW3kQhkEwXxEBumAj9nI=
+
 "@hapi/address@2.x.x":
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-2.0.0.tgz#9f05469c88cb2fd3dcd624776b54ee95c312126a"
